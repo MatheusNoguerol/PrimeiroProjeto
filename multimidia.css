@@ -1,0 +1,73 @@
+#titulo1{
+    background-color: #888888;
+    padding: 5px;
+    margin: 2px;
+    color: white;
+}
+div#carouselExampleCaptions{
+    height: 50vh;
+    width: 80vh;
+    margin: auto;
+}
+div.carousel-caption p{
+    text-align: center;
+}
+div.carousel-inner img{
+    height: 50vh;
+    width: 80vh;
+}
+
+
+p.card-text{
+    text-align: center;
+    
+}
+div.card-body{
+    text-align: center;
+}
+div#carros h1{
+    margin-left: 0;
+    background-color: rgba(218, 218, 218, .5);
+    padding: 2px;
+    text-align: center;
+    font-weight: bolder;
+}
+div#carros h1:hover{
+    background-color:blue;
+    color: white;
+    transition: 1s;
+}
+
+/* FORMATAÇÃO INFORMAÇÕES LOJA FOOTER*/
+#call-area{
+    background-color:rgba(0, 0, 255, 0.8);
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+div#bordado{
+    border: 1px solid black;
+    
+}
+div#bordado:hover{
+    background-color:blue;
+    color: white;
+    transition: 1s;
+    transform: scale(1.1);
+}
+div#quadfora{
+    background-color: rgba(218, 218, 218, .8);
+}
+
+.scrollspysite{
+    position: relative;
+    height: 350px;
+    overflow: auto;
+}
+#psycologic{
+    height: 500px;
+    overflow: hidden;
+}
+.selosmtr{
+    margin-top: 2rem;
+}

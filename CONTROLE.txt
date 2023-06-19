@@ -1,0 +1,36 @@
+Projeto developer (data de início Outubro de 2022) 
+
+Cursos para fazer:
+curso em vídeo
+1- html5, css3 e JS. (CONCLUIDO)
+2- Algoritimos	
+3- PHP
+5- Banco de dados
+4- Javascript (CONCLUIDO)
+5- Python
+---------------------------------------------------------
+
+INÍCIO DA GRADUAÇÃO ADS
+
+----------------------------------------------------------
+
+Sistema/Site serginho do taxi
+Agregar ao portfólio:
+-> História de cada funcionário 
+-> História de cada parceiro de negócio
+-> Apresentação em vídeo e foto do local da empresa
+-> aba com Link direto para nosso parceiro do Ytb, com vídeo exclusivo feito pelo mesmo
+-> call to action
+-> Dados de contato da empresa (email/telefone fixo/zap e endereço completo com mapa que tenha um botao para redirecionamento direto ao Google maps)
+
+/comceçando com o site apenas para portfólio, após o término dos cursos aplicar metodologia para implementar ao site, um sistema de controle de :
+
+-> caixa
+-> mercadoria
+-> datas de vencimento (placa, vistoria, cnh, gnv...)
+
+-----------------------------------------------------------
+
+Alimentação do linked.in
+Após término dos cursos, alimentar o perfil com os certificados e projetos apresentados no github.
+CRIAR UM PORTFÓLIO PARA MIM

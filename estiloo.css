@@ -1,0 +1,170 @@
+/*Formataçao geral*/
+*{
+    font-family: Arial, Helvetica, sans-serif ;
+}
+body{
+    background-color: #BABABA;
+    color: rgba(1, 1, 1, 1);
+    background-image: url('./_imagens/fundo1.jpg');
+}
+header#cabecalho{
+    background-color: rgba(218, 218, 218, .8);
+    font-weight: bolder;
+}
+header#cabecalho a:hover{
+    color: blue;
+}
+
+
+/*Formatação de Textos*/
+p{
+    text-align: justify;
+    text-indent: 50px;
+}
+div#item-1-1{
+    margin-bottom: 20rem;
+    margin-top: 10rem;
+}
+div.historiasmtr {
+    background-color: rgba(218, 218, 218, .5) ;
+}
+
+
+/*Formata de imagens*/
+div.box{
+    display: inline-block;
+}
+#foto2{
+    margin-left: 3rem;
+}
+div#servicos h1{
+    margin-left: 0;
+    background-color: rgba(218, 218, 218, .5);
+    padding: 2px;
+    text-align: center;
+}
+div#servicos h1:hover{
+    background-color:blue;
+    color:white;
+    transition: 1s;
+}
+div#bordado2{
+    border: 1px solid black;
+    background-color:white ;
+    overflow: hidden;
+}
+
+div#bordado2:hover{
+    background-color: white;
+    transition: 1s;
+    transform: scale(1.1);
+    overflow: hidden;
+}
+
+/* FORMATAÇÃO INFORMAÇÕES LOJA FOOTER*/
+#call-area{
+    background-color:rgba(0, 0, 255, 0.8);
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+div#bordado{
+    border: 1px solid black;
+    
+}
+div#bordado:hover{
+    background-color:blue;
+    color: white;
+    transition: 1s;
+    transform: scale(1.1);
+}
+div#quadfora{
+    background-color: rgba(218, 218, 218, .8);
+}
+
+.scrollspysite{
+    position: relative;
+    height: 350px;
+    overflow: auto;
+}
+#psycologic{
+    height: 500px;
+    overflow: hidden;
+}
+.selosmtr{
+    margin-top: 2rem;
+}
+
+/*FORMATAÇÃO ÁREA DE ATUAÇÃO*/
+div#bordado1{
+    border: 2px dotted black;
+}
+div#bordado1:hover{
+    background-color:blue;
+    color: white;
+    transition: 1s;
+    transform: scale(.9);  
+}
+div#bordado1 h2{
+    text-decoration:underline;
+}
+
+section#tabelavistsmtr table{
+    text-align: center;
+}
+
+section#tabelavistsmtr h1{
+    margin-left: 0;
+    background-color: rgba(218, 218, 218, .5);
+    padding: 2px;
+    text-align: center;
+}
+section#tabelavistsmtr h1:hover{
+    background-color:blue;
+    color: white;
+    transition: 1s;
+}
+input#verificar{
+  color: #fff;
+  font-size: 18px;
+  outline: none;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  background: blue;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+input#verificar:hover{
+    background:rgba(0, 0, 255, .5);
+  }
+div.historiasmtr h1{
+    margin-left: 2px;
+    background-color: rgba(218, 218, 218, .5);
+    
+    
+    text-align: center;
+}
+div.historiasmtr p{
+    margin-top:1rem;
+}
+
+aside h1{
+    margin-left: 0;
+    background-color: rgba(218, 218, 218, .5);
+    padding: 2px;
+    text-align: center;
+}
+aside h1:hover{
+    background-color:blue;
+    color: white;
+    transition: 1s;
+}
+table td.inicio{
+    color:blue;
+    font-weight: bold;
+}
+table td.fim{
+    color: red;
+    font-weight: bold;
+}

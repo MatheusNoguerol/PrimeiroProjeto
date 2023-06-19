@@ -1,0 +1,29 @@
+#titulo1{
+    background-color: #888888;
+    padding: 5px;
+    margin: 2px;
+    color: white;
+}
+div#carouselExampleCaptions{
+    bottom: 100px;
+    margin: 100px 100px 100px 100px;
+    top: 2px;
+}
+div.carousel-caption p{
+    text-align: center;
+}
+
+header#galeria h1{
+    border: 3px blue solid;
+    box-shadow: 1px 1px 4px black;
+    text-align: center;
+}
+p.card-text{
+    text-align: center;
+    
+}
+div.card-body{
+    text-align: center;
+}
+
+

@@ -1,0 +1,170 @@
+<hr class="bg-secondary">
+        <h1>Servicos</h1>
+        <hr class="bg-secondary">
+        <div class="container">
+        <div class="row">
+            <div class="col-4">
+              <nav id="navbar-example3" class="h-100 flex-column align-items-stretch pe-4 border-end">
+                <nav class="nav nav-pills flex-column">
+                  <a class="nav-link" href="#item-1">SMTR</a>
+                  <nav class="nav nav-pills flex-column">
+                    <a class="nav-link ms-3 my-1" href="#item-1-1">Vistoria</a>
+                    <a class="nav-link ms-3 my-1" href="#item-1-2">Cartão</a>
+                    <a class="nav-link ms-3 my-1" href="#item-1-3">IPI / ICMS</a>
+                  </nav>
+                  <a class="nav-link" href="#item-2">SEGURO</a>
+                  <nav class="nav nav-pills flex-column">
+                    <a class="nav-link ms-3 my-1" href="#item-2-1">Automóvel</a>
+                    <a class="nav-link ms-3 my-1" href="#item-2-2">Residencial</a>
+                    <a class="nav-link ms-3 my-1" href="#item-2-3">Celular</a>
+                    <a class="nav-link ms-3 my-1" href="#item-2-4">Empresarial</a>
+                  </nav>
+                  <a class="nav-link" href="#item-3">DETRAN</a>
+                  <nav class="nav nav-pills flex-column">
+                    <a class="nav-link ms-3 my-1" href="#item-3-1">Vistoria</a>
+                    <a class="nav-link ms-3 my-1" href="#item-3-2">Consulta</a>
+                  </nav>
+                </nav>
+              </nav>
+            </div>
+          
+            <div class="col-8">
+              <div data-bs-spy="scroll" data-bs-target="#navbar-example3" data-bs-smooth-scroll="true" class="scrollspy-example-2" tabindex="0" id="psycologic">
+                <div id="item-1">
+                  <h4>SMTR</h4>  
+                  <p>A Secretaria Municipal de Transporte(SMTR) é responsável por formular e executar a Política Municipal de Transportes e de Trânsito, integrando-se ao Sistema Nacional de Trânsito e procedendo à gestão das ações de operação dos transportes urbanos e também cumprir e fazer cumprir a legislação e as normas de trânsito, em conformidade com o Código de Trânsito Brasileiro.</p> 
+                    <div class="box">
+                      <img src="_imagens/smtr.png"/>
+                    </div>
+                    <div class="box" id="foto2">
+                      <img src="_imagens/smtr2.jpg"/>
+                    </div>
+                </div>
+                <div id="item-1-1">
+                  <p>O Taxi por ser uma atividade legalizada, regulamentada e controlada pela Prefeitura do Rio de Janeiro, deve passar por diferentes vistorias, podendo ser OBRIGATÓRIAS ou OPCIONAIS. Por exemplo, quando um permissionário deseja trocar seu atual veículo por um outro de sua escolha, ele OPTOU por essa permuta, que só acontece desde de que tanto seus documentos quanto seu veículo estejam de acordo com os requisitos impostos pela Secretaria Municipal de Transportes.</p>
+                  <p>Já no caso das VISTORIAS anuais OBRIGATÓRIAS, TODOS os taxis do Estado do Rio de Janeiro devem realizar essa averiguação documental por precaução, tanto dos motoristas quanto dos passageiros.</p>             
+                  <li>Vistoria</li>
+                    <ol type="1">
+                      <li>Transferencia</li>
+                      <li>Permuta</li>
+                      <li>Benefício</li>
+                      <li>Anual/Atrasada</li>
+                      <li>Extra</li>
+                    </ol>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div id="item-1-2">
+                  <li>Cartão</li>
+                    <ol type="1">
+                      <li>Renovação</li>
+                      <li>Segunda via</li>
+                      <li>Novo</li>
+                      <li>inclusão de AUX</li>
+                    </ol>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div id="item-1-3">
+                  <li>Carta de Isenção</li>
+                    <ol type="1">
+                      <li>IPI</li>
+                      <li>ICMS</li>
+                    </ol>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div id="item-2">
+                  <h4>Seguro</h4>
+                  Trabalhamos com todas as grandes seguradoras do mercado (azul,sulamérica,tokyo,suhay,aruana,porto entre outras...), aliado com um software de multicálculo que nos auxilia na hora de realizar as cotações, criando assim uma grande economia de tempo tanto para nosso corretor quanto para nosso cliente que recebe a sua cotação em poucos minutos.
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div id="item-2-1">
+                  <li>Seguro</li>
+                    <ol type="1">
+                      <li>Casco total / parcial</li>
+                      <li>Terceiros</li>
+                        <ul type="square">
+                          <li>RCF</li>
+                          <li>APP</li>
+                        </ul>
+                      <li>Proteção vidros</li>
+                      <li>Assistência 24hrs</li>
+                      <li>Carro reserva</li>
+                    </ol>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div id="item-3">
+                  <h4>Detran</h4>
+                  Coordenar, realizar a fiscalização de trânsito, autuar e aplicar as medidas administrativas cabíveis pelas infrações previstas no CTB e de sua competência. Arrecadar valores provenientes de estada e remoção de veículos e objetos, bem como das infrações de trânsito relacionadas ao condutor e veículo.
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div id="item-3-1">
+                  <li>Vistoria</li>
+                  <ol type="1">
+                    <li>Segunda via ATPV-E</li>
+                    <li>Transferência de propriedade</li>
+                    <li>Troca de característica</li>
+                    <li>Baixa / Inclusão gravame</li>
+                    <li>Troca de categoria</li>
+                  </ol>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <div id="item-3-2">
+                  <h5>Item 3-2</h5>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dignissimos harum eveniet suscipit perferendis. Aperiam, ut, delectus eos veritatis corporis esse fugit, ipsam cum possimus repellendus sint quas nemo dolor.</p>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit sapiente deserunt ipsum est aspernatur blanditiis libero totam. Similique doloribus, hic asperiores debitis possimus aperiam vitae optio doloremque et, commodi eius?</p>
+                </div>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+              </div>
+            </div>
+          </div>
+        </div>

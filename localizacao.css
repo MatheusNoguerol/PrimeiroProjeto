@@ -1,0 +1,28 @@
+
+#mapa{
+    justify-content: start;
+    margin-left: 1rem;
+}
+#visita{
+   
+    margin-left: 1rem;
+}
+div.mapa{
+    margin-left: 2px;
+    background-color: rgba(218, 218, 218, .5);
+    text-align: center;
+}
+span#visita{
+    margin-left: 0;
+    background-color: rgba(218, 218, 218, .5);
+    padding: 2px;
+    text-align: center;
+}
+span#visita:hover{
+    background-color:blue;
+    color: white;
+    transition: 1s;
+}
+#mapapuro{
+    align-items: center;
+}
